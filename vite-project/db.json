@@ -83,6 +83,20 @@
       "hp": 60,
       "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
       "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+    },
+    {
+      "name": "ur mom",
+      "hp": "44",
+      "front": "https://en.wikipedia.org/wiki/File:FinnAdventureTime.png",
+      "back": "https://en.wikipedia.org/wiki/File:Jeremy_Shada_(16485175731).jpg",
+      "id": 13
+    },
+    {
+      "name": "ur mom",
+      "hp": "44",
+      "front": "https://upload.wikimedia.org/wikipedia/en/e/e5/FinnAdventureTime.png",
+      "back": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jeremy_Shada_%2816485175731%29.jpg/440px-Jeremy_Shada_%2816485175731%29.jpg",
+      "id": 14
     }
   ]
 }
